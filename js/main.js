@@ -78,7 +78,7 @@ const Mercedes= {
     buildDate: 2016,
     }
     
-    console.log(Porsche);
+    console.log(Mercedes);
 
     const Porsche= {
         Title:"Porsche 911 3.8 Carrera S Cabriolet AUT 2005 Zwart",
@@ -103,29 +103,7 @@ const Mercedes= {
 
 
 
-// const product = {
-//     title: "Choco vlokken",
-//     Price: 1.95,
-//     image: "tover.jpg",
-// };
-
-// product.Price = 0.95;
-
-// console.log("Productnaam:", product.title);
-// console.log("Prijs:", product.Price);
-
-// const product = {
-//     title: "Choco vlokken",
-//     Price: 1.95,
-//     image: "tover.jpg",
-// };
-// const product = {
-//     title: "Choco pasta",
-//     Price: 2.00,
-//     image: "tover.jpg",
-
-// };
-
+0
 
 
 
