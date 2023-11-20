@@ -10,7 +10,7 @@
 // console.log("Voornaam is:", objectPerson.firstname);
 // console.log("email is:", objectPerson.email);
 
-//opdracht 1b
+// opdracht 1b
 // const jsonWell = `
 // {
 //     "id": 1,
@@ -27,7 +27,7 @@
 // console.log (ObjectWell.firstname);
 // console.log (ObjectWell.lastname);
 
-//opdracht 2
+// opdracht 2
 // const jsonGood = `
 // {
 //     "id": 1,
@@ -49,7 +49,7 @@
 //  console.log (ObjectGood.content);
 //  console.log (ObjectGood.publishedAt);
 
-//opdracht 3
+// opdracht 3
 
 // const jsonBad = `
 // {
